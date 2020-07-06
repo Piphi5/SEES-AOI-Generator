@@ -16,7 +16,8 @@ Now, run the script with the latitude and longitudes of this center point. The p
 
 With the CSV file, we can import it into Google MyMaps.   
 ![](https://github.com/Piphi5/Mapper-Automation-Notebook/blob/master/tutorial_images/MM_Add.PNG)
-![](https://github.com/Piphi5/Mapper-Automation-Notebook/blob/master/tutorial_images/MM_import.PNG)
+![](https://github.com/Piphi5/Mapper-Automation-Notebook/blob/master/tutorial_images/MM_import.PNG)  
+
 Select these settings to help my maps setup:  
 ![](https://github.com/Piphi5/Mapper-Automation-Notebook/blob/master/tutorial_images/MM_setupColumns.PNG)
 ![](https://github.com/Piphi5/Mapper-Automation-Notebook/blob/master/tutorial_images/MM_title.PNG)
