@@ -1,3 +1,7 @@
+# Archive Notice
+
+This notebook has been upgraded and is now hosted on [Google Collab](https://colab.research.google.com/drive/1jOzRTG8wyeOY_y2f_x-ARQeIk7P3djLD?usp=sharing).
+
 # Usage
 
 The script above creates a CSV file (to be imported into Google My Maps or ArcGIS) containing a 36 point grid spaced out by 500m from the Latitude, Longitude coordinates of a centerpoint. The center point can be found through google maps or other GIS services.
